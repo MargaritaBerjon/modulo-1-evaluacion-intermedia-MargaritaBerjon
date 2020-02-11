@@ -81,6 +81,7 @@
 }
 
 @media (min-width: 768px) {
-    .main-content {
-      font-size: 40px;
-    }
+  .main-content {
+    font-size: 40px;
+  }
+}
