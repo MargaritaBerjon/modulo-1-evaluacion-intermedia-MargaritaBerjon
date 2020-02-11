@@ -88,18 +88,7 @@
   color: #ffffff;
 }
 
-/* Bordes
-.header-container {
-  border: solid 5px red;
-}
-
-.logo {
-  border: solid 5px blue;
-}
-
-.main-bar {
-  border: solid 5px orange;
-}
-.main-content {
-  border: solid 5px green;
-} */
+@media (min-width: 768px) {
+    .main-content {
+      font-size: 40px;
+    }
