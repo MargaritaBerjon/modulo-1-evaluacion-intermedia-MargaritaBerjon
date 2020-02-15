@@ -63,10 +63,7 @@
 
 .main-container {
   display: flex;
-  flex-direction: column;
   justify-content: center;
-  align-items: center;
-  margin-top: 0;
   background-color: #3cdbc0;
   height: 100vh;
 }
