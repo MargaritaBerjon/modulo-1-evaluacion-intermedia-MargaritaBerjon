@@ -78,6 +78,7 @@
   align-items: center;
   font-size: 30px;
   color: #ffffff;
+  text-transform: capitalize;
 }
 
 @media (min-width: 768px) {
